@@ -1,4 +1,4 @@
-# C-cash
+# C-Blockchain-Currency
 Comp220 Blockchain starter project
 
 C modules and test drivers for C-cash application -- a simple blockchain using ArrayList and Doubly-Linked-List ADTs.
